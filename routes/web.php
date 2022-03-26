@@ -22,6 +22,12 @@ Route::get('Dashboard', function () {
 Route::get('DataBuku', function () {
     return view('Admin/DataBuku');
 });
+Route::get('DataPeminjam', function () {
+    return view('Admin/DataPeminjam');
+});
+Route::get('PengajuanPeminjam', function () {
+    return view('Admin/PengajuanPeminjam ');
+});
 Route::get('Laporan', function () {
     return view('Admin/Laporan');
 });

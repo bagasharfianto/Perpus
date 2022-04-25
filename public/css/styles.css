@@ -64,6 +64,23 @@
   --bs-body-bg: #fff;
 }
 
+/*!
+ * Css tambahan
+ */
+
+.MenuTambahan{
+  margin: 5px 20px 5px 10px;
+  display: flex;
+}
+.BtnAdd{
+  margin-left: 75%;
+  size: 15px; 
+}
+
+
+ /*!
+ * End Css tambahan
+ */
 *,
 *::before,
 *::after {

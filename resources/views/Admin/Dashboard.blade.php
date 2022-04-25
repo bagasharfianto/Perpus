@@ -10,7 +10,7 @@
             <div class="card bg-primary text-white mb-4">
                 <div class="card-body">Data Buku</div>
                 <div class="card-footer d-flex align-items-center justify-content-between">
-                    <a class="small text-white stretched-link" href="#">View Details</a>
+                    <a class="small text-white stretched-link" href="http://127.0.0.1:8000/DataBuku">View Details</a>
                     <div class="small text-white"><i class="fas fa-angle-right"></i></div>
                 </div>
             </div>
@@ -19,7 +19,7 @@
             <div class="card bg-warning text-white mb-4">
                 <div class="card-body">Data Peminjam</div>
                 <div class="card-footer d-flex align-items-center justify-content-between">
-                    <a class="small text-white stretched-link" href="#">View Details</a>
+                    <a class="small text-white stretched-link" href="http://127.0.0.1:8000/DataPeminjam">View Details</a>
                     <div class="small text-white"><i class="fas fa-angle-right"></i></div>
                 </div>
             </div>
@@ -28,7 +28,7 @@
             <div class="card bg-success text-white mb-4">
                 <div class="card-body">Data Ingin Meminjam</div>
                 <div class="card-footer d-flex align-items-center justify-content-between">
-                    <a class="small text-white stretched-link" href="#">View Details</a>
+                    <a class="small text-white stretched-link" href="http://127.0.0.1:8000/PengajuanPeminjam">View Details</a>
                     <div class="small text-white"><i class="fas fa-angle-right"></i></div>
                 </div>
             </div>
@@ -37,7 +37,7 @@
             <div class="card bg-danger text-white mb-4">
                 <div class="card-body">Data Pengembalian</div>
                 <div class="card-footer d-flex align-items-center justify-content-between">
-                    <a class="small text-white stretched-link" href="#">View Details</a>
+                    <a class="small text-white stretched-link" href="http://127.0.0.1:8000/Laporan">View Details</a>
                     <div class="small text-white"><i class="fas fa-angle-right"></i></div>
                 </div>
             </div>
